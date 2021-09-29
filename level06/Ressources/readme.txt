@@ -1,0 +1,1 @@
+#on arrive au level06 avec deux fichiers, un level06 et un level06.php
